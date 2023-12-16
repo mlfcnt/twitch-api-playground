@@ -1,5 +1,5 @@
 {
-  "name": "twitch-dice-command",
+  "name": "twitch-api-playground",
   "version": "0.1.0",
   "private": true,
   "scripts": {
